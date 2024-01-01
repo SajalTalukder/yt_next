@@ -39,7 +39,7 @@ const HomePage = () => {
 
   return (
     <div className="overflow-x-hidden">
-      <h1 className="text-9xl text-red-800"></h1>
+      <h1 className="text-9xl text-red-800">what the fuck is happening</h1>
       {/* <MobileNav nav={nav} closeNav={closeNavHandler} />
       <Navbar openNav={openNavHandler} /> */}
       {/* <Hero /> */}
