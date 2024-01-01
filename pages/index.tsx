@@ -39,8 +39,9 @@ const HomePage = () => {
 
   return (
     <div className="overflow-x-hidden">
-      <MobileNav nav={nav} closeNav={closeNavHandler} />
-      <Navbar openNav={openNavHandler} />
+      <h1 className="text-9xl text-red-800"></h1>
+      {/* <MobileNav nav={nav} closeNav={closeNavHandler} />
+      <Navbar openNav={openNavHandler} /> */}
       {/* <Hero /> */}
       {/* <TopDestination />
       <Hotels />
