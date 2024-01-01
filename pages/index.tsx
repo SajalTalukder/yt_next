@@ -42,11 +42,11 @@ const HomePage = () => {
       <MobileNav nav={nav} closeNav={closeNavHandler} />
       <Navbar openNav={openNavHandler} />
       <Hero />
-      <TopDestination />
+      {/* <TopDestination />
       <Hotels />
       <Review />
       <Contact />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
