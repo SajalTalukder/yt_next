@@ -43,8 +43,8 @@ const HomePage = () => {
       {/* <MobileNav nav={nav} closeNav={closeNavHandler} />
       <Navbar openNav={openNavHandler} /> */}
       {/* <Hero /> */}
-      {/* <TopDestination />
-      <Hotels />
+      <TopDestination />
+      {/* <Hotels />
       <Review />
       <Contact />
       <Footer /> */}
