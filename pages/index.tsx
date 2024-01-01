@@ -41,7 +41,7 @@ const HomePage = () => {
     <div className="overflow-x-hidden">
       <MobileNav nav={nav} closeNav={closeNavHandler} />
       <Navbar openNav={openNavHandler} />
-      <Hero />
+      {/* <Hero /> */}
       {/* <TopDestination />
       <Hotels />
       <Review />
